@@ -58,7 +58,7 @@ finally write ::= instead of ->
 
 ### Parse Trees
 
-![Parse Tree](../parse-tree.png)
+![Parse Tree](./parse-tree.png)
 
 - Terminal symbols are the leaves of the tree
 - Variables are at the non-leaf nodes
